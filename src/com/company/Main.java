@@ -9,11 +9,6 @@ public class Cat extends Animal{
     }
     }
 
-public class Pig extends Animal{
-    public void eat() {
-        System.out.println("吃猪食");
-    }
-}
 
 public class Feeder {
     private String name; //姓名
